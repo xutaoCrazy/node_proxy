@@ -3,6 +3,7 @@ const express = require('express');
 const moment = require('moment');
 var mysql  = require('mysql');  
 var uuid = require('node-uuid');
+var mime = require('mime');
 var url = require('url');
 let fs = require('fs');
 let path = require('path');
@@ -83,15 +84,11 @@ app.get('/api/exportfile', (req, res) => {   //导出接口
                console.log(err);
            } else {
               res.writeHead(200,{"Content-Type":"text/json;chartset=utf-8"})
-              res.end(JSON.stringify({
-                code: 200,
-                message: '成功',
-                data: {
-                  list: results
-                }
-              }))
+              res.end(fileCN)
+            
            }
         });
+        
         let textEN = JSON.stringify(jsonEN,null,'\t')
         let fileEN = path.join(__dirname, 'zh_en.json');
         fs.writeFile(fileEN, textEN, function (err) {
@@ -101,6 +98,7 @@ app.get('/api/exportfile', (req, res) => {   //导出接口
               
            }
         });
+       
       }
      
     
@@ -163,10 +161,35 @@ app.post('/api/inserlist', (req, res) => {   //添加批量数据接口
     }
   }))
 })
+
+app.get('/api/download', function(req, res){
+       var  currFile = path.join(__dirname,'zh_cn.json');
+       fs.exists(currFile,function(exist) {
+        if(exist){
+            res.set({
+                "Content-type":"application/octet-stream",
+                "Content-Disposition":"attachment;filename=zh_cn"
+            });
+            fReadStream = fs.createReadStream(currFile);
+            fReadStream.on("data",function(chunk){res.write(chunk,"binary")});
+            fReadStream.on("end",function () {
+                res.end();
+            });
+        }else{
+            res.set("Content-type","text/html");
+            res.send("file not exist!");
+            res.end();
+        }
+      });
+});
+
+
+
 /* 监听端口 */
 app.listen(3000, () => {
   console.log('listen:3000');
 })
+
 
  
 // connection.end();
