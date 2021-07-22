@@ -1,0 +1,293 @@
+{
+  "anti_auth": "K@91yXX6bG5CRB5MAfxNMHAFVPgEy0OOuxLzETENBLEtxZhQxjh@wWvvYgP1PcGCgYvjPuVtvYgP@ZPcPPuVtvYgPhPPyheuBVtErpT1GaaDy1uVtcvY1SGpuNtHLbB9A1GgvPUDZYOYIZuVt1cv3uVtGccZcuVtPWv3GuBxtXfQEb1PYIUvhgMZSguxzBEHLNRTVtcEWe1GD8zv7u@ZPuzteL1wWveuzEthjzgjyBODHWEHUHHxhl44yEQx2mmiJR4",
+  "content": [
+    {
+      "alias": " ",
+      "company": "\u4e0a\u6d77\u78c1\u6d6e\u4ea4\u901a\u53d1\u5c55\u6709\u9650\u516c\u53f8",
+      "emergency_tips": [
+        "\u5730\u94c118\u53f7\u7ebf\u4e00\u671f\u5317\u6bb5\u9884\u8ba12021\u5e74\u5e74\u5e95\u5f00\u901a\u8fd0\u8425\uff0c\u656c\u8bf7\u671f\u5f85\uff01"
+      ],
+      "endTime": "21:00",
+      "end_index": 18,
+      "geo": "2|13525197.76,3631929.40;13534131.98,3654148.13|13525197.76,3654148.13,13525643.03,3653856.80,13525682.15,3653811.17,13525703.87,3653745.98,13525710.40,3653648.19,13525705.27,3652936.48,13525705.27,3652936.48,13525775.08,3651138.29,13525775.08,3651138.29,13525801.65,3650865.46,13525886.41,3650656.85,13526454.64,3649600.79,13526455.32,3649599.50,13526455.32,3649599.50,13526734.49,3649080.76,13526773.60,3649029.69,13526818.17,3648998.18,13527344.04,3648760.13,13527344.04,3648760.13,13527348.00,3648758.33,13527699.63,3648601.85,13527781.66,3648546.99,13527821.86,3648480.70,13527851.19,3648394.85,13527925.57,3648099.52,13527925.85,3648098.40,13527925.85,3648098.40,13528260.24,3646887.98,13528260.44,3646887.22,13528260.44,3646887.22,13528468.67,3646137.77,13528496.37,3646045.40,13528533.32,3645953.59,13528609.90,3645840.05,13528825.75,3645563.10,13528831.72,3645551.68,13528836.93,3645539.80,13528838.61,3645535.24,13528838.61,3645535.24,13528853.32,3645495.04,13528869.59,3645422.24,13528884.82,3645373.36,13529066.28,3644983.29,13529186.95,3644788.30,13529189.51,3644784.81,13529189.51,3644784.81,13529475.37,3644398.15,13529636.19,3644222.12,13529662.80,3644186.82,13529727.96,3644068.51,13529727.96,3644068.51,13529728.61,3644067.37,13530642.77,3642901.66,13530642.77,3642901.66,13531116.98,3641866.07,13531116.98,3641866.07,13531604.62,3640756.05,13531604.62,3640756.05,13531905.79,3639805.88,13531906.27,3639804.38,13531906.27,3639804.38,13532245.18,3638769.27,13532420.75,3637670.68,13532420.75,3637670.68,13532486.96,3637267.08,13532489.93,3637243.99,13532501.35,3637216.82,13532601.58,3636999.24,13532632.03,3636928.61,13532649.39,3636874.28,13532759.83,3636191.99,13532759.83,3636191.99,13532962.01,3635171.23,13532962.01,3635171.23,13533125.84,3634549.55,13533160.11,3634381.69,13533164.43,3634330.61,13533166.60,3634246.95,13533176.38,3634189.35,13533535.97,3633229.71,13533536.35,3633228.65,13533536.34,3633228.65,13533751.26,3632625.80,13533778.43,3632582.34,13533814.30,3632571.48,13533924.59,3632588.32,13533963.70,3632578.53,13533984.34,3632553.54,13534030.99,3632365.41,13534055.47,3632254.45,13534099.48,3632054.94,13534131.98,3631929.40,13534131.98,3631929.40;",
+      "image": "",
+      "intervent_tips": "<font color=\"#f54336\">\u5730\u94c118\u53f7\u7ebf\u4e00\u671f\u5317\u6bb5\u9884\u8ba12021\u5e74\u5e74\u5e95\u5f00\u901a\u8fd0\u8425\uff0c\u656c\u8bf7\u671f\u5f85\uff01<\/font>",
+      "isMonTicket": 0,
+      "is_display": 0,
+      "kind": 512,
+      "kindtype": 512,
+      "line_color": "#c09453",
+      "line_direction": "\u5fa1\u6865\u65b9\u5411",
+      "maxPrice": 0,
+      "name": "\u5730\u94c118\u53f7\u7ebf\u4e00\u671f\u5317\u6bb5(\u957f\u6c5f\u5357\u8def-\u5fa1\u6865)",
+      "nearest_station_idx": -1,
+      "open_status_desc": "\u672a\u5f00\u901a",
+      "pair_line": {
+        "direction": "\u957f\u6c5f\u5357\u8def\u65b9\u5411",
+        "endTime": "21:00",
+        "kindtype": 512,
+        "name": "\u5730\u94c118\u53f7\u7ebf\u4e00\u671f\u5317\u6bb5(\u5fa1\u6865-\u957f\u6c5f\u5357\u8def)",
+        "startTime": "07:00",
+        "uid": "66d1aaa8e7f4abb5cd06a495"
+      },
+      "raw_name": "\u5730\u94c118\u53f7\u7ebf\u4e00\u671f\u5317\u6bb5",
+      "run_state": 1,
+      "startTime": "07:00",
+      "start_index": 0,
+      "stations": [
+        {
+          "geo": "1|13525197.76,3654148.13;13525197.76,3654148.13|13525197.76,3654148.13;",
+          "name": "\u957f\u6c5f\u5357\u8def",
+          "open_status_desc": "\u6682\u672a\u5f00\u901a",
+          "pre_open": 1,
+          "rt_info": null,
+          "tri_rt_info": null,
+          "uid": "05a6870199d5925b0e0a7073",
+          "underground": 1
+        },
+        {
+          "geo": "1|13525705.27,3652936.48;13525705.27,3652936.48|13525705.27,3652936.48;",
+          "name": "\u6bb7\u9ad8\u8def",
+          "open_status_desc": "\u6682\u672a\u5f00\u901a",
+          "pre_open": 1,
+          "rt_info": null,
+          "tri_rt_info": null,
+          "uid": "e0b0c1c7618c35b7ad080fca",
+          "underground": 1
+        },
+        {
+          "geo": "1|13525775.08,3651138.29;13525775.08,3651138.29|13525775.08,3651138.29;",
+          "name": "\u4e0a\u6d77\u8d22\u7ecf\u5927\u5b66",
+          "open_status_desc": "\u6682\u672a\u5f00\u901a",
+          "pre_open": 1,
+          "rt_info": null,
+          "tri_rt_info": null,
+          "uid": "9d1a6b1ea304aa9fa104642e",
+          "underground": 1
+        },
+        {
+          "geo": "1|13526455.32,3649599.50;13526455.32,3649599.50|13526455.32,3649599.50;",
+          "name": "\u590d\u65e6\u5927\u5b66",
+          "open_status_desc": "\u6682\u672a\u5f00\u901a",
+          "pre_open": 1,
+          "rt_info": null,
+          "tri_rt_info": null,
+          "uid": "59b6f767d8ca857ce856fac0",
+          "underground": 1
+        },
+        {
+          "geo": "1|13527344.04,3648760.13;13527344.04,3648760.13|13527344.04,3648760.13;",
+          "name": "\u56fd\u6743\u8def",
+          "open_status_desc": "\u6682\u672a\u5f00\u901a",
+          "pre_open": 1,
+          "rt_info": null,
+          "tri_rt_info": null,
+          "uid": "0db812227831e5f94107c14b",
+          "underground": 1
+        },
+        {
+          "geo": "1|13527925.85,3648098.40;13527925.85,3648098.40|13527925.85,3648098.40;",
+          "name": "\u629a\u987a\u8def",
+          "open_status_desc": "\u6682\u672a\u5f00\u901a",
+          "pre_open": 1,
+          "rt_info": null,
+          "tri_rt_info": null,
+          "uid": "3d15d47e79d63b9ba2a93401",
+          "underground": 1
+        },
+        {
+          "geo": "1|13528260.44,3646887.22;13528260.44,3646887.22|13528260.44,3646887.22;",
+          "name": "\u6c5f\u6d66\u8def",
+          "open_status_desc": "\u6682\u672a\u5f00\u901a",
+          "pre_open": 1,
+          "rt_info": null,
+          "tri_rt_info": null,
+          "uid": "21cd74e3dfa00f088f55ecec",
+          "underground": 1
+        },
+        {
+          "geo": "1|13528838.61,3645535.24;13528838.61,3645535.24|13528838.61,3645535.24;",
+          "name": "\u6c5f\u6d66\u516c\u56ed",
+          "open_status_desc": "\u6682\u672a\u5f00\u901a",
+          "pre_open": 1,
+          "rt_info": null,
+          "tri_rt_info": null,
+          "uid": "60f6e0ad9a0f018c5cd4feba",
+          "underground": 1
+        },
+        {
+          "geo": "1|13529189.51,3644784.81;13529189.51,3644784.81|13529189.51,3644784.81;",
+          "name": "\u5e73\u51c9\u8def",
+          "open_status_desc": "\u6682\u672a\u5f00\u901a",
+          "pre_open": 1,
+          "rt_info": null,
+          "tri_rt_info": null,
+          "uid": "7b09123e7e06e7752cb17ec7",
+          "underground": 1
+        },
+        {
+          "geo": "1|13529727.96,3644068.51;13529727.96,3644068.51|13529727.96,3644068.51;",
+          "name": "\u4e39\u9633\u8def",
+          "open_status_desc": "\u6682\u672a\u5f00\u901a",
+          "pre_open": 1,
+          "rt_info": null,
+          "tri_rt_info": null,
+          "uid": "f4e1ec8cd2828db795ca07b4",
+          "underground": 1
+        },
+        {
+          "geo": "1|13530642.77,3642901.66;13530642.77,3642901.66|13530642.77,3642901.66;",
+          "name": "\u660c\u9091\u8def",
+          "open_status_desc": "\u6682\u672a\u5f00\u901a",
+          "pre_open": 1,
+          "rt_info": null,
+          "tri_rt_info": null,
+          "uid": "1c6bce1b02b99f84e856fa61",
+          "underground": 1
+        },
+        {
+          "geo": "1|13531116.98,3641866.07;13531116.98,3641866.07|13531116.98,3641866.07;",
+          "name": "\u6c11\u751f\u8def",
+          "open_status_desc": "\u6682\u672a\u5f00\u901a",
+          "pre_open": 1,
+          "rt_info": null,
+          "tri_rt_info": null,
+          "uid": "109bec6c9c35fe4a97ec84f8",
+          "underground": 1
+        },
+        {
+          "geo": "1|13531604.62,3640756.05;13531604.62,3640756.05|13531604.62,3640756.05;",
+          "name": "\u6768\u9ad8\u4e2d\u8def",
+          "open_status_desc": "\u6682\u672a\u5f00\u901a",
+          "pre_open": 1,
+          "rt_info": null,
+          "tri_rt_info": null,
+          "uid": "de4ced8a50c76372260bd033",
+          "underground": 1
+        },
+        {
+          "geo": "1|13531906.27,3639804.38;13531906.27,3639804.38|13531906.27,3639804.38;",
+          "name": "\u8fce\u6625\u8def",
+          "open_status_desc": "\u6682\u672a\u5f00\u901a",
+          "pre_open": 1,
+          "rt_info": null,
+          "tri_rt_info": null,
+          "uid": "725feaf93174ac0bfe0eb011",
+          "underground": 1
+        },
+        {
+          "geo": "1|13532420.75,3637670.68;13532420.75,3637670.68|13532420.75,3637670.68;",
+          "name": "\u9f99\u9633\u8def",
+          "open_status_desc": "\u6682\u672a\u5f00\u901a",
+          "pre_open": 1,
+          "rt_info": null,
+          "tri_rt_info": null,
+          "uid": "696baacf555b8cadb64f548c",
+          "underground": 1
+        },
+        {
+          "geo": "1|13532759.83,3636191.99;13532759.83,3636191.99|13532759.83,3636191.99;",
+          "name": "\u82b3\u82af\u8def",
+          "open_status_desc": "\u6682\u672a\u5f00\u901a",
+          "pre_open": 1,
+          "rt_info": null,
+          "tri_rt_info": null,
+          "uid": "b8d93650879f264357bfff71",
+          "underground": 1
+        },
+        {
+          "geo": "1|13532962.01,3635171.23;13532962.01,3635171.23|13532962.01,3635171.23;",
+          "name": "\u5317\u4e2d\u8def",
+          "open_status_desc": "\u6682\u672a\u5f00\u901a",
+          "pre_open": 1,
+          "rt_info": null,
+          "tri_rt_info": null,
+          "uid": "328a4bace4e9f03a45e274cf",
+          "underground": 1
+        },
+        {
+          "geo": "1|13533536.34,3633228.65;13533536.34,3633228.65|13533536.34,3633228.65;",
+          "name": "\u83b2\u6eaa\u8def",
+          "open_status_desc": "\u6682\u672a\u5f00\u901a",
+          "pre_open": 1,
+          "rt_info": null,
+          "tri_rt_info": null,
+          "uid": "4d6400dbc0cd4bc9fbdc8519",
+          "underground": 1
+        },
+        {
+          "geo": "1|13534131.98,3631929.40;13534131.98,3631929.40|13534131.98,3631929.40;",
+          "name": "\u5fa1\u6865",
+          "open_status_desc": "\u6682\u672a\u5f00\u901a",
+          "pre_open": 1,
+          "rt_info": null,
+          "tri_rt_info": null,
+          "uid": "8c67d5581ca46ffa79dbd253",
+          "underground": 1
+        }
+      ],
+      "ticketPrice": 0,
+      "ticket_price_ext": "",
+      "timetable": "07:00-21:00  ",
+      "timetable_ext": "",
+      "uid": "a63d10c509340045afee7a06",
+      "workTime": [
+        {
+          "end": "21:00",
+          "start": "07:00"
+        }
+      ],
+      "workingTimeDesc": [
+        "\u8fd0\u8425\u65f6\u95f4:",
+        "07:00-21:00"
+      ],
+      "lineColor": ""
+    }
+  ],
+  "current_city": {
+    "code": 289,
+    "geo": "1|13523265.31,3641114.64;13523265.31,3641114.64|13523265.31,3641114.64;",
+    "level": 12,
+    "name": "\u4e0a\u6d77\u5e02",
+    "sgeo": [
+      13523265,
+      3641114
+    ],
+    "sup": 1,
+    "sup_bus": 1,
+    "sup_business_area": 1,
+    "sup_lukuang": 1,
+    "sup_subway": 1,
+    "type": 2,
+    "up_province_name": "\u4e0a\u6d77\u5e02"
+  },
+  "hot_city": [
+    "\u5317\u4eac\u5e02|131",
+    "\u4e0a\u6d77\u5e02|289",
+    "\u5e7f\u5dde\u5e02|257",
+    "\u6df1\u5733\u5e02|340",
+    "\u6210\u90fd\u5e02|75",
+    "\u5929\u6d25\u5e02|332",
+    "\u5357\u4eac\u5e02|315",
+    "\u676d\u5dde\u5e02|179",
+    "\u6b66\u6c49\u5e02|218",
+    "\u91cd\u5e86\u5e02|132"
+  ],
+  "result": {
+    "count": 1,
+    "error": 0,
+    "illegal": 0,
+    "is_subway": 1,
+    "linetype": 1,
+    "qid": "",
+    "rtbus_flag": null,
+    "time": 0,
+    "total": 1,
+    "type": 18,
+    "uii_type": "china_main",
+    "region": "0",
+    "uii_qt": "bsl",
+    "login_debug": 1,
+    "auth": "K@91yXX6bG5CRB5MAfxNMHAFVPgEy0OOuxLzETENBLEtxZhQxjh@wWvvYgP1PcGCgYvjPuVtvYgP@ZPcPPuVtvYgPhPPyheuBVtErpT1GaaDy1uVtcvY1SGpuNtHLbB9A1GgvPUDZYOYIZuVt1cv3uVtGccZcuVtPWv3GuBxtXfQEb1PYIUvhgMZSguxzBEHLNRTVtcEWe1GD8zv7u@ZPuzteL1wWveuzEthjzgjyBODHWEHUHHxhl44yEQx2mmiJR4"
+  }
+}
